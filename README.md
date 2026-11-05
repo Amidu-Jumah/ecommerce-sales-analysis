@@ -54,22 +54,6 @@ The dataset contains only 25 unique customer IDs, associated with unusually freq
 
 January 2025 contains only 18 days of transaction records, so comparisons must use equivalent reporting periods.
 
-## Project Visualizations
-
-### Monthly Customer Transactions
-![Monthly Customer Transactions](images/monthly_customer_transactions.png)
-
-### Payment Method Revenue Share
-![Payment Method Revenue Share](images/payment_method_revenue_share.png)
-
-### Revenue by Payment Method
-![Revenue by Payment Method](images/revenue_by_payment_method.png)
-
-### Revenue Contribution by Category
-![Revenue Contribution by Category](images/revenue_contribution_by_category.png)
-
-### Top 10 Customer IDs by Revenue
-![Top 10 Customers by Revenue](images/top_10_customers_by_revenue.png)
 
 ## Business Recommendations
 
